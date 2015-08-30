@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.edu.ks"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <uses-sdk android:minSdkVersion="8" />
+
+    <application android:icon="@drawable/icon_android" android:label="@string/app_name">
+        <activity android:name=".Intro"
+                  android:label="@string/app_name"
+                  android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    <!-- main(ks) -->
+    <activity android:name="com.edu.ks.Tab" android:screenOrientation="portrait"/>
+    <activity android:name="com.edu.ks.Hak_Info" android:screenOrientation="portrait"/>
+    <activity android:name="com.edu.ks.Phone_Info" android:screenOrientation="portrait"/>
+    
+    <!-- tab -->
+	<activity android:name="com.edu.ks.tab.Admission" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.tab.Job" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.tab.Life" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.tab.Main" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.tab.PR" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.tab.Introduce" android:screenOrientation="portrait"/>
+	
+	<!-- Introduce --> 
+	<activity android:name="com.edu.ks.introduce.Greet" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.introduce.Vision" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.introduce.Campus_Info" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.introduce.Hak_Info" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.introduce.Hak_Info_Sub" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.introduce.Phone_Info" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.introduce.Phone_Info_Main" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.introduce.Phone_Info_Sub" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.introduce.WebCam" android:screenOrientation="portrait"/>
+	
+	
+	<!-- life -->
+	<activity android:name="com.edu.ks.life.Bus" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.life.Bus_Sub" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.life.Campus" android:windowSoftInputMode="adjustResize|stateHidden" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.life.FoodMenu" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.life.Notice" android:windowSoftInputMode="adjustResize|stateHidden" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.life.Schedule" android:windowSoftInputMode="adjustResize|stateHidden" android:screenOrientation="portrait"/>
+	
+	<!-- pr -->
+	<activity android:name="com.edu.ks.pr.Janmain" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.pr.Photo" android:windowSoftInputMode="adjustResize|stateHidden" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.pr.Photo2" android:windowSoftInputMode="adjustResize|stateHidden" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.pr.User_PhotoList" android:windowSoftInputMode="adjustResize|stateHidden" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.pr.User_PhotoWrite" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.pr.PhotoSearch" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.pr.Sns" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.pr.Ucc2" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.pr.Video" android:screenOrientation="portrait"/>
+	
+	<!-- job -->
+	<activity android:name="com.edu.ks.job.Center" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.job.Jobinfo" android:windowSoftInputMode="adjustResize|stateHidden" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.job.Saramin" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.job.WorkNet" android:screenOrientation="portrait"/>
+	
+	<!-- admission -->
+	<activity android:name="com.edu.ks.admission.FAQ" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.admission.FAQ_Sub" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.admission.FAQ_Sub2" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.admission.GuideLine" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.admission.Info" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.admission.Notice" android:windowSoftInputMode="adjustResize|stateHidden" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.admission.QnA" android:windowSoftInputMode="adjustResize|stateHidden" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.admission.Result" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.admission.Search" android:screenOrientation="portrait"/>
+	<activity android:name="com.edu.ks.admission.GuideLine" android:screenOrientation="portrait"/>
+	
+	<!-- board_Detail -->
+	<activity android:name="com.edu.ks.board.BoardDetail" android:screenOrientation="portrait"/>
+	<!-- google map -->
+	<uses-library android:name="com.google.android.maps"/>
+    
+    </application>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+</manifest>

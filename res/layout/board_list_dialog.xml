@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:id="@+id/boardDetail_Ll01"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+    <TextView
+    		android:text="글쓴이 :"
+    		android:padding="10dip"
+    		android:layout_width="wrap_content"
+    		android:layout_height="wrap_content" 
+    	/>
+    	<EditText
+    		android:id="@+id/boardDetail_Et01"
+    		android:layout_width="fill_parent"
+    		android:layout_height="wrap_content" 
+    		android:editable = "false" 
+  			android:cursorVisible = "false"
+    	/>
+    
+    <TextView
+    	android:text="제 목 : "
+    	android:padding="10dip"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	/>
+    <EditText
+    	android:id="@+id/boardDetail_Et02"
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:editable = "false" 
+  		android:cursorVisible = "false" 
+    />
+    <TextView
+    	android:text="내 용 : "
+    	android:padding="10dip"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	/>
+    <EditText
+    	android:id="@+id/boardDetail_Et03"
+   		android:layout_width="fill_parent"
+   		android:layout_weight="1"
+   		android:layout_height="150dip"
+   		android:singleLine="false"
+   		android:editable = "false" 
+  		android:cursorVisible = "false" 
+    	/>	
+    <LinearLayout
+    	android:orientation="horizontal"
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content" 
+    >
+    	
+    	<Button
+    		android:id="@+id/boardDetail_Bt02"
+    		android:text="닫기"
+    		android:layout_width="fill_parent"
+    		android:layout_weight="1"
+    		android:layout_height="wrap_content"
+    		/>	
+    </LinearLayout>		
+        
+</LinearLayout>

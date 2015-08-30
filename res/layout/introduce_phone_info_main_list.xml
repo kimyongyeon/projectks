@@ -1,0 +1,76 @@
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:gravity="center_horizontal"
+  android:background="@drawable/main_bg"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+    <LinearLayout
+    	android:background="@drawable/main_titlebar_bg"
+    	android:orientation="horizontal"
+    	android:gravity="center"
+    	android:layout_width="fill_parent"
+    	android:padding="15dip"
+    	android:layout_height="wrap_content">
+    	<TextView
+    		android:background="@drawable/sub_titlebar_logo"
+    		android:layout_width="wrap_content"
+    		android:layout_height="wrap_content" 
+    	/>
+    	<LinearLayout
+    		android:layout_marginLeft="10dip"
+    		android:layout_width="wrap_content"
+    		android:layout_height="wrap_content">
+	    	<TextView
+	    		android:gravity="center"
+	    		android:id="@+id/introduce_phone_info_main_textview"
+	    		android:textSize="20dip"
+	    		android:textStyle="bold"
+	    		android:layout_width="wrap_content"
+	    		android:layout_height="wrap_content" 
+	    	/>
+    	</LinearLayout>
+    </LinearLayout>
+    
+	<LinearLayout
+			android:layout_gravity="center"
+	    	android:gravity="center_horizontal"
+	    	android:padding="15dip"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content">	    
+		<TextView
+			android:text=" ■ 원하시는 항목을 선택하세요."
+			android:gravity="left"
+			android:textColor="#ffffff"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content">
+		</TextView>	    
+	</LinearLayout>
+	    
+	<LinearLayout
+    	android:gravity="center_horizontal"
+    	android:layout_width="fill_parent"
+    	android:layout_weight="1"
+    	android:layout_height="fill_parent">	    
+		<ListView
+	    	android:id="@+id/introduce_phone_info_main_list_Lv01"
+	    	android:cacheColorHint="#00000000"
+	    	android:background="@drawable/round_coner"
+	    	android:layout_width="300dip"
+	    	android:layout_height="wrap_content"
+	   	/>
+   	</LinearLayout>
+   	
+   	<View
+  		android:layout_weight="3"
+  		android:layout_width="fill_parent"
+   		android:layout_height="fill_parent" 
+    />
+    
+    <ImageView
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:background="@drawable/appmain_copyright"
+    />
+    
+</LinearLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="horizontal"
+  android:gravity="center"
+  android:padding="10dip"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+    <TextView
+    	android:id="@+id/boardlistRow_Tv01"
+    	android:textColor="#000000"
+    	android:padding="10dip"
+    	android:text="글제목............"
+    	android:layout_weight="1"
+    	android:layout_height="wrap_content" 
+    	android:layout_width="fill_parent"/>
+    <TextView
+    	android:id="@+id/boardlistRow_Tv02"
+    	android:textColor="#000000"
+    	android:padding="10dip"
+    	android:gravity="right"
+    	android:text="2011-10-22"
+    	android:layout_weight="1"
+    	android:layout_height="wrap_content" 
+    	android:layout_width="fill_parent"/>
+    <ImageView
+    	android:id="@+id/boardlistRow_Iv01"
+    	android:padding="10dip"
+    	android:background="@drawable/tablecell_arrow"
+    	android:layout_width="10dip"
+    	android:layout_height="10dip"
+    />
+</LinearLayout>

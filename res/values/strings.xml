@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ProjectKSActivity!</string>
+    <string name="app_name">부산경상대학교</string>
+    <string name="notice_name">공지사항</string>
+    <string name="enternotice_name">입학 공지사항</string>
+    <string name="photo_name">포토갤러리</string>
+    <string name="news_name">캠퍼스소식</string>
+    <string name="qna_name">입학 Q&amp;A</string>
+    <string name="job_name">취업정보</string>
+    
+    <string name="intro_title">대학소개-총장인사말 </string>
+    <string name="intro_content">
+  	  젊은이들의  미래를 밝히는 횃불이  되겠습니다. 
+ 	  지난4반세기 동안 우리대학은 나라와 겨레의 발전에 이바지할 참된 일꾼을 길러낸다는 건학이념을 충실히 구현하는데 전력을 기울여 왔습니다. 합리적인 문제해결 능력을 지닌 인재, 전공지식과 현장 적응력을 겸비한 인재, 정보마인드와 외국어 실력을 갖춘 인재, 범세계적 가치관을 지향하는 인재를 길러내는 것이 우리대학의 궁극적인 목표입니다.  
+  	 우리대학이 교육과학기술로부터 특성화 재정지원대학에 선정되어 교육환경 구축에 50억원을 집중투자 할 수 있게 된것은 자타가 인정하는 첨단설비와 교육 프로그램 그리고 우수한 교수진을 갖추고 특성화 된 교육을 지속적으로 실시해 온 결과일 것입니다.   
+  	 이를 계기로 우리대학은 매년 막대한 투자를 아끼지 않음으로써 특성화 중점대학으로서의 입지를 공고히 하는데 더욱 박차를 가할 방침이며 차별화된 전공 학습프로그램과 체계적이고도 실질적인 진로지도를 통해 젊은이들의 미래를 열어주는데 모든 역량을 쏟아 부을것 입니다.   
+  	 이제 새로운 시대를 맞이하여 우리대학의 전 구성원 참 정신을 바탕으로 내적 성숙도를 중시하면서도 변화와 개혁의 물결을 한발 앞서 받아들임으로써 명실상부한 부산 경남지역 최고의 명문 전문대학으로 발 돋음해 나갈 것을 약속드립니다.
+    </string>
+    
+    <string name="job_center_title">
+		 우리대학의 재학생 및 졸업생의  현명한 진로선택, 성공적인 사회진출을 위한
+ 		양질의 채용정보와 취업 전략, 직업 교육 및 상담 등 품격높은 서비스 제공은 물론 기업이 요구하는 핵심 인재 양성을 위해 최선을 다하고 있습니다.
+    </string>
+    
+    <string name="job_center_content_title1">
+    	위치
+    </string>
+    
+    <string name="job_center_content_memo1">
+    	창조관 1층
+    </string>
+    
+    <string name="job_center_content_title2">
+    	전화번호
+    </string>
+    
+    <string name="job_center_content_memo2">
+    	051) 850-1032~3
+    </string>
+    
+    <string name="job_center_content_title3">
+    	주요내용
+    </string>
+    
+    <string name="job_center_content_memo3">
+		    취업 정보 제공, 취업 상담 \n
+		잡 카페(Job Cafe) \n
+		 - 구인정보 검색, 열람 \n
+		잡 섹션(Job Section) \n
+		 - 취업 및 진로 관련 서적 등 전문 자료 비치 
+		세미나실 
+    </string>
+    
+    <string name="admission_info_title">
+    	해당 홈페이지 이동 : 학과클릭\n전화걸기 : 아이콘 클릭
+    </string>
+    
+    <string name="intro_bottom">문학박사 총장 이달덕</string>
+    
+    <string name="intro2_title">학훈(College Motto)</string>
+    <string name="intro2_title2">교육이념(Education Goal)</string>
+    <string name="intro2_contents">
+    	본 대학은 대한민국 교육의 근본이념에 입각하여 국가 산업발전에 필요한 전문적 지식과 이론을 교수하고 재능을 연마하여 국가발전에 필요한 전문 직업인을 양성함을 목적으로 한다. 
+    </string>
+    
+    <string name="intro2_contents1">경쟁력 향상을 위한 교육환경 개선</string>
+	<string name="intro2_contents2">To improve the educational enviroment for a superior College</string>
+	<string name="intro2_contents3">교육의 정보화를 위한 첨단 정보 인프라 구축</string>
+	<string name="intro2_contents4">To build an updated information infrastructure for an information oriented</string>
+	<string name="intro2_contents5">교육 수요자층의 확충을 위한 열린 교육체계 확립</string>
+	<string name="intro2_contents6">To establish an open education system for a variety of students</string>
+	<string name="intro2_contents7">민주시민의 양성을 위한 인성교육 강화</string>
+	<string name="intro2_contents8">To enhance students character to allow them to be productive citizens of society</string>  
+	<string name="intro2_contents9">지역 사회에 봉사하는 프로그램의 개발</string>
+	<string name="intro2_contents10">To develop continuing education programs for the local community</string>
+    
+    
+    <string name="phone_headquarter_subtitle1">교무처</string>
+    <string name="phone_headquarter_subtitle1_contents">교무처는 교육계획의 수립 및 조정, 교원인사, 수업, 학적, 교직업무를 관장하며 대학의 중추적 기능을 수행하는 부서로서 교육의 기본계획수립 및 조정, 학사일정의 운영과 관리 및 교원인사, 학적, 수업에 관한 제반사항과 기타 교무 등을 관장하는 부서이다.</string>
+    
+    
+    <string name="phone_headquarter_subtitle2">입시기획실</string>
+    <string name="phone_headquarter_subtitle2_contents">입시기획실은 신·편입학 등의 입학정책개발과 입학제도 수립, 입학전형에 따른 업무 및 학생 선발에 관한 제반업무와 대학의 연중 이미지 홍보, 입시관련 각종 홍보 등을 대내외적으로 전개하여 학교 이미지 제고에 역량을 다하는 부서이다.
+    </string>
+    
+    <string name="phone_headquarter_subtitle3">산학처</string>
+    <string name="phone_headquarter_subtitle3_contents">산학처는 학생과와 창업ㆍ취업지원센터로 구성되며, 학생과는 학생지도 및 장학, 학생복지업무를 관장하며 창업ㆍ취업지원센터는 졸업생과 재학생들의 취업 및 진로상담 업무를 관장한다. 학생과, 창업ㆍ취업지원센터는 모든 학생들이 원만하고 훌륭한 대학생활을 영위할 수 있도록 최상의 민원서비스를 제공하고자 항시 노력하며, 학생들이 학교생활을 함에 있어 불편한 점이나 어려움에 처했을때 언제든지 상담, 지원을 받을 수 있는 학생지원부서이다.
+    </string>
+    
+    <string name="phone_headquarter_subtitle4">사무처</string>
+    <string name="phone_headquarter_subtitle4_contents">사무처는 총무과와 시설관재과로 구성되며, 총무과는 서무, 인사, 출납, 회계업무를 관장하며, 시설관재과는 시설, 용도, 공무업무를 관장한다.
+		총무과는 관인간수, 직원인사, 서무, 상훈, 징계, 보안, 비상계획, 교육훈련, 교직원 복지후생, 차량관리, 문서관리, 교직원 급여 등 기타 타과에 속하지 아니하는 사항을 담당하고 있다. 시설관재과는 시설물의 유지관리 및 영선업무와 물품(교육용 및 사무용 기계기구, 집기, 실험기자재, 사무용품) 구입 및 시설사업에 대한 설계 및 공사감독 업무를 담당한다.
+    </string>
+    
+    <string name="phone_headquarter_subtitle5">교수학습지원센터</string>
+    <string name="phone_headquarter_subtitle5_contents">
+		해당 사항은 내용 없음.
+    </string>
+    <string name="phone_department_subtitle1">비즈니스 / 경영과</string>
+    <string name="phone_department_subtitle2">비즈니스 / 세무정보과</string>
+    <string name="phone_department_subtitle3">비즈니스 / 유통물류과</string>
+    <string name="phone_department_subtitle4">비즈니스 / 부동산경영과</string>
+    <string name="phone_department_subtitle5">비즈니스 / 광고•마케팅과</string>
+    <string name="phone_department_subtitle6">비즈니스 / 중국비즈니스과</string>
+    <string name="phone_department_subtitle7">행정교육 / 유아교육과</string>
+    <string name="phone_department_subtitle8">행정교육 / 경찰•경호 행정과</string>
+    <string name="phone_department_subtitle9">행정교육 / 소방안전계열</string>
+    <string name="phone_department_subtitle10">보건복지 / 보건의료행정과</string>
+    <string name="phone_department_subtitle11">보건복지 / 사회복지행정과</string>
+    <string name="phone_department_subtitle12">보건복지 / 아동복지보육과</string>
+    <string name="phone_department_subtitle13">관광외국어 / 관광일어과</string>
+    <string name="phone_department_subtitle14">관광외국어 / 호텔관광영어과</string>
+    <string name="phone_department_subtitle15">관광외국어 / 호텔관광경영과</string>
+    <string name="phone_department_subtitle16">관광외국어 / 항공•비서과</string>
+    <string name="phone_department_subtitle17">멀티미디어 / 멀티미디어계열</string>
+    <string name="phone_department_subtitle18">예체능 / 방송영상•영화과</string>
+    <string name="phone_department_subtitle19">예체능 / 방송엔터테이너•모델계열</string>
+    <string name="phone_department_subtitle20">예체능 / 스포츠건강관리과</string>
+    <string name="phone_department_subtitle21">패션뷰티디자인 / 패션•뷰티계열</string>
+    <string name="phone_department_subtitle22">패션뷰티디자인 / 광고•인테리어 디자인과</string>
+    
+    <string name="phone_manpowercenter_subtitle1">종합인력개발센터</string>
+    
+    <string name="phone_affiliate_subtitle1">일민도서관</string>
+    <string name="phone_affiliate_subtitle1_contents">전국 최고수준의 독립도서관이다. 각종 첨단설비와 편의시설을 갖추고 있다. 도서자료의 검색과 대출이 디지털화 되어있고 까페테리아에서는 영화와 포켓볼을 무료로 즐길 수 있다.
+ 		 최근 우리대학의 역사와 비전을 한눈에 볼 수 있는 역사관이 도서관 1층에 개설되었다.</string>
+    <string name="phone_affiliate_subtitle2">교육정보원</string>
+    <string name="phone_affiliate_subtitle2_contents">우리대학의 두뇌라고도 할 수 있는 곳이다.
+		학사행정에 관한 제반 전산프로그램을 완벽하게 제어하고 있다. 수강신청, 성적처리, 성적처리 및 열람, 각종 증명서 발급 등을 One-Stop Service로 제공하고 있다. 또한 전국최고의 e-learning 교육콘텐츠 개발능력과 실적을 자랑하고 있다.</string>
+    <string name="phone_affiliate_subtitle3">사회교육원</string>
+    <string name="phone_affiliate_subtitle3_contents">지역주민과 재학생들에게 교양과 전공강좌를 제공하는 대학안에 존재하는 또 하나의 대학이다.
+  		수십여종의 교양강좌와 각 전문가과정 그리고 현업인을 위한 재교육과 실직가 재취업 프로그램 등 다양한 강좌를 연중 운용하고 있다. 특히 전국최초로 연제구청과 연제실버대학을 공동개설하여 평생교육의 모범케이스로 만들었다.</string>
+    <string name="phone_affiliate_subtitle4">언론사</string>
+    <string name="phone_affiliate_subtitle4_contents">우리대학의 학보와 교육방송국 그리고 교지편찬을 책임지고 있다. 월간으로 발행되는 부산경상대학보를 통해 학내외의 주요 뉴스와 최신정보를 얻을 수 있다.
+  		매일 세차례 학내에 방송하는 교육방송은 풍부한 교양과 휴식을 제공하고 있다. 교지는 매년 1회 발간된다.</string>
+  		
+  		
+  	<string name="phone_organization_subtitle1">외래교수실</string>
+  	<string name="phone_organization_subtitle2">학생회</string>
+  	<string name="phone_organization_subtitle3">실습실관리</string>
+  	<string name="phone_organization_subtitle4">복지시설</string>
+  	<string name="phone_organization_subtitle5">부속시설</string>
+  	<string name="phone_organization_subtitle6">건설·소방·방재기술연구소</string>
+  	<string name="phone_organization_subtitle7">수위실(관리실)</string>
+  	
+  	<string name="faq0">FAQ</string>
+  	<string name="faq1">원서접수</string>
+  	<string name="faq2">지원방법</string>
+  	<string name="faq3">내신 및 수능반영</string>
+  	<string name="faq4">등록금</string>
+  	<string name="faq5">면접 및 실기고사</string>
+  	<string name="faq6">기타</string>
+  	
+  	<string name="bus1">셔틀버스 운행 시간표</string>
+  	<string name="bus2">수영교차로 방면</string>
+  	<string name="bus3">연산교차로 방면</string>
+  	<string name="bus4">울산 방면</string>
+  	<string name="bus5">마산, 창원, 장유</string>
+  	
+  	<string name="faq_row1_col1">경영과, 세무정보과, 항공해운무역과, 부동산경영과, 유통물류과,광고홍보마케팅과,중국비지니스과</string>
+  	<string name="faq_row1_col2">￦ 650,000</string>
+  	<string name="faq_row1_col3">￦ 2,894,000</string>
+  	
+  	<string name="faq_row2_col1">유아교육과, 사회복지행정과, 아동보육복지과, 경찰경호ㆍ행정과</string>
+  	<string name="faq_row2_col2">￦ 650,000</string>
+  	<string name="faq_row2_col3">￦ 2,956,000</string>
+  	
+  	<string name="faq_row3_col1">관광일어과, 호텔관광영어과, 호텔·관광경영과, 항공·비서과</string>
+  	<string name="faq_row3_col2">￦ 650,000</string>
+  	<string name="faq_row3_col3">￦ 3,063,000</string>
+  	
+  	<string name="faq_row4_col1">보건의료행정과, 소방안전계열, 멀티미디어계열, 스포츠·피트니스과,방송영상·영화과, 방송엔터테이너·모델계열, 광고·인테리어디자인과,패션·뷰티계열</string>
+  	<string name="faq_row4_col2">￦ 650,000</string>
+  	<string name="faq_row4_col3">￦ 3,214,000</string>
+
+</resources>

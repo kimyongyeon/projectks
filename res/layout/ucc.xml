@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:gravity="center_horizontal"
+  android:background="#ffffff"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+    <LinearLayout
+    	android:background="@drawable/main_titlebar_bg"
+    	android:orientation="horizontal"
+    	android:gravity="center"
+    	android:layout_width="fill_parent"
+    	android:padding="15dip"
+    	android:layout_height="wrap_content">
+    	<TextView
+    		android:background="@drawable/sub_titlebar_logo"
+    		android:layout_width="wrap_content"
+    		android:layout_height="wrap_content" 
+    	/>
+    	<LinearLayout
+    		android:layout_marginLeft="10dip"
+    		android:layout_width="wrap_content"
+    		android:layout_height="wrap_content">
+	    	<TextView
+	    		android:gravity="center"
+	    		android:id="@+id/boardDetail_textview"
+	    		android:text="잔메 UCC"
+	    		android:textSize="20dip"
+	    		android:textStyle="bold"
+	    		android:layout_width="wrap_content"
+	    		android:layout_height="wrap_content" 
+	    	/>
+    	</LinearLayout>
+    </LinearLayout>
+    <WebView
+		android:id="@+id/Ucc_WebView01"
+		android:layout_weight="1"
+	    android:layout_width="fill_parent" 
+	    android:layout_height="fill_parent"
+	    />	     
+    <LinearLayout
+    	android:background="@drawable/main_copyright_bg"
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content">
+    	<ImageView
+    		android:background="@drawable/main_copyright_text"
+    		android:layout_width="wrap_content"
+    		android:layout_height="wrap_content" 
+    	/>
+    </LinearLayout>    
+</LinearLayout>
